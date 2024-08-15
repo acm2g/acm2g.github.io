@@ -30,7 +30,6 @@
     margin-top: 2em;
     max-width: 100%;
     padding: 0 1em 2em;
-    background-image: url(‘../images/background.png’);
 
     @include breakpoint($x-large) {
       max-width: $x-large;
