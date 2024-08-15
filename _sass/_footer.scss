@@ -21,7 +21,7 @@
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
   background-image: url(‘../images/background.jpg’);
-  background-color: rgba(0,0,0,0.5);
+  background-color: $lighter-gray;
   border-top: 1px solid $light-gray;
 
   footer {
