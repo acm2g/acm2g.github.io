@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-<img src='/images/acm2g.png' width = "500"><br/>
+<img src='/images/acm2g.png' width = "800"><br/>
 
 ## Research Theme
 
