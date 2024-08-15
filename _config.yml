@@ -12,7 +12,7 @@ title                    : "Dr. Jie Zhi"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://zhi-mechanics.top # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://acm2g.github.io #https://zhi-mechanics.top # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "acm2g/acm2g.github.io"
 
