@@ -12,7 +12,7 @@ redirect_from:
 
 <img src="../images/phone-solid.svg" width="20" height="20"> 021-65983267
 
-<img src="../images/envelope-regular.svg" width="20" height="20"> zhi_jie@tongji.edu.cn
+<img src="../images/envelope-regular.svg" width="20" height="20"> zhi_jie(at)tongji(dot)edu(dot)cn
 
 <p align = "center">
 <img src="../images/campus.png" width="888">
