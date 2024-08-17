@@ -13,7 +13,7 @@ redirect_from:
 {% include base_path %}
 
 ## Opportunities
-Tongji University and our group are committed to fostering a diverse and inclusive environment, welcoming applicants from all races, ethnicities, religions, national origins, gender identities, and eligible age or disability statuses. We are dedicated to maintaining a supportive and collaborative atmosphere. Motivated and talented individuals who share our passion for research are more than welcome. We are eager to learn about your scientific background and discuss how your career aspirations—whether in academia, industry, or other fields—can align with the opportunities we offer. Interested applicants please send an email to Dr. Jie Zhi with an up-to-date CV/Resume. 
+Tongji University and our group are committed to fostering a diverse and inclusive environment, welcoming applicants from all races, ethnicities, religions, national origins, gender identities, and eligible age or disability statuses. We are dedicated to maintaining a supportive and collaborative atmosphere. Motivated and talented individuals who share our passion for research are more than welcome. We are eager to learn about your scientific background and discuss how your career aspirations—whether in academia, industry, or other fields—can align with the opportunities we offer. Interested applicants please send an email with an up-to-date CV/Resume. 
 
 - **Postdoc Fellowship**
   - [面向海内外公开招聘博士后研究人员 &#124; Recruitment](https://hr.tongji.edu.cn/info/1177/48731.htm)
