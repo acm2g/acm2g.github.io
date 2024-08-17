@@ -8,4 +8,4 @@ redirect_from:
 
 {% include base_path %}
 
-* <img src="../images/address-book-regular.svg" width="50" height="50">
+* <img src="../images/address-book-regular.svg" width="20" height="20">
