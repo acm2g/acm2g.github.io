@@ -27,7 +27,7 @@ The goal of the research group is to understand, predict and optimize the perfor
 * Changrong Dong<sup>#</sup> (2024-): Process modeling
 * Xiang Li<sup>#</sup> (2023-): Mechanical characterization
 
-<sup>#</sup>, co-supervised
+<sup>#</sup> co-supervised
 
 ### Undergraduate student
 * Yujuan Hou (2023-)
