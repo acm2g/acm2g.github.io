@@ -4,7 +4,8 @@ title: "Research Group"
 excerpt: ""
 author_profile: true
 ---
-
+<style> .aligncenter {text-align: center;} </style>
+<style> body {text-align: justify} </style> <!-- Justify text. -->
 
 <img src='/images/acm2g.png' width = "800"><br/>
 
