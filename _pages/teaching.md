@@ -13,9 +13,9 @@ redirect_from:
 - 2023S - Fatigue and Fracture Mechanics in Aircraft Structures - TA
 
 ## at NUS
-- 2018F - ME3162 | Manufacturing Processes - TA
-- 2017F - EG1111 | Engineering Principles and Practice - TA
-- 2017S - ME2114 | Mechanics of Materials - TA
-- 2016F - ME2113 | Mechanics of Materials - TA
+- 2018F - ME3162 &#124; Manufacturing Processes - TA
+- 2017F - EG1111 &#124; Engineering Principles and Practice - TA
+- 2017S - ME2114 &#124; Mechanics of Materials - TA
+- 2016F - ME2113 &#124; Mechanics of Materials - TA
 
 S\~Spring Semester; F\~Fall Semester
