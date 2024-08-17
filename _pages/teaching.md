@@ -9,12 +9,13 @@ redirect_from:
 {% include base_path %}
 
 ## at Tongji
-- 2024 Spring - Finite Element Analysis of Aircraft Structures - Lecturer
-- 2023 Spring - Fatigue and Fracture Mechanics in Aircraft Structures - TA
+- 2024S - Finite Element Analysis of Aircraft Structures - Lecturer
+- 2023S - Fatigue and Fracture Mechanics in Aircraft Structures - TA
 
 ## at NUS
-- 2018 Fall - Manufacturing Processes (ME3162) - TA
-- 2017 Fall - Engineering Principles and Practice (EG1111) - TA
-- 2017 Spring - Mechanics of Materials (ME2114) - TA
-- 2016 Fall - Mechanics of Materials (ME2113) - TA
+- 2018F - ME3162 | Manufacturing Processes - TA
+- 2017F - EG1111 | Engineering Principles and Practice - TA
+- 2017S - ME2114 | Mechanics of Materials - TA
+- 2016F - ME2113 | Mechanics of Materials - TA
 
+S~Spring Semester; F~Fall Semester
