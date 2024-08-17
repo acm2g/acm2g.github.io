@@ -14,5 +14,5 @@ redirect_from:
 
 <img src="../images/envelope-regular.svg" width="20" height="20"> zhi_jie@tongji.edu.cn
 
-<img src="../images/location.png" height="80">
-<img src="../images/campus.png" height="80">
+<img src="../images/location.png" height="50">
+<img src="../images/campus.png" height="50">
