@@ -12,7 +12,7 @@ author_profile: true
 ## Research Theme
 The goal of the research group is to understand, predict and optimize the performance of composite structures during their life cycle, including design and development, manufacturing, etc. Through a coordinated effort in experimental, theoretical and computational studies, the group explores innovative solutions and sustainable practices for industrial applications of composite materials. The current research topics include
 - **Design of high-performance composite structures**: \
-   *Hybrid composites, Bio-inspired design, Damage tolerance, Impact, etc.*
+   *Hybrid composites, Bio-inspired design, Impact, Damage tolerance, etc.*
 - **Optimization of manufacturing process**: \
   *Precise manufacturing, Process-induced Distortions, Additive Manufacturing, etc.*
 - **Development of numerical models and tools**: \
