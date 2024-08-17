@@ -22,7 +22,7 @@ Tongji University and our group are committed to fostering a diverse and inclusi
   - [TONGJI International Student Office](https://study.tongji.edu.cn/English/HOME.htm)
   - [同济研究生招生网](https://yz.tongji.edu.cn/) 
 - **Undergraduate Student**
-  - 本科生导师，国豪书院学业导师，力学强基/拔尖班导师，毕业设计，科研助理等
+  - 书院&#124;学院本科生导师，毕业设计，科研助理等
   - [创新创业训练计划](https://cxcy.tongji.edu.cn/CXCY/TONGJI/)
 
 ## About TONGJI
