@@ -8,11 +8,9 @@ redirect_from:
 
 {% include base_path %}
 
-<img src="../images/address-book-regular.svg" width="20" height="20">  100 Zhangwu Rd, Yangpu, Shanghai 200092, P.R. China. 
-
-<img src="../images/phone-solid.svg" width="20" height="20"> 021-65983267
-
-<img src="../images/envelope-regular.svg" width="20" height="20"> zhi_jie(at)tongji(dot)edu(dot)cn
+- <i class="fa-solid fa-map"></i> 100 Zhangwu Rd, Yangpu, Shanghai 200092, P.R. China.
+- <i class="fa-solid fa-phone"></i> 021-65983267
+- <i class="fa-solid fa-envelope"></i> zhi_jie(at)tongji(dot)edu(dot)cn
 
 <p align = "center">
 <img src="../images/campus.png" width="888">
