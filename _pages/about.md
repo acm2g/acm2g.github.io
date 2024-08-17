@@ -15,7 +15,6 @@ redirect_from:
 Dr. Jie Zhi is currently a research professor at the [School of Aerospace Engineering and Applied Mechanics](https://aero-mech.tongji.edu.cn/main.htm), [Tongji University](https://www.tongji.edu.cn/) since March 2023. Prior to this, he worked as a research fellow at the [Department of Mechanical Engineering](https://cde.nus.edu.sg/me/), [National University of Singapore](https://nus.edu.sg/), and he earned his Ph.D. degree from the same department in 2020. He also holds M.Eng. and B.Eng. degrees in [Aerospace Engineering](http://www.sa.buaa.edu.cn/) with a minor in Applied Mathematics from [Beihang University](https://www.buaa.edu.cn/). His research interests are mainly in mechanical characterization of fiber-reinforced composites, process modeling in composites manufacturing, and advanced computational methods. 
 
 ## Selected Publications
-
 ### Journal
 > ***Mchanical characterization***
 - KL Xu, LL Liu<sup>&#10045;</sup>, **J Zhi<sup>&#10045;</sup>**, W. Chen, TE Tay, Hygrothermal effects on ballistic behavior of toughened CFRP laminates, *International Journal of Mechanical Sciences*, 280:109531 (2024)
