@@ -17,7 +17,7 @@ Dr. Jie Zhi is currently a research professor at the [School of Aerospace Engine
 ## Selected Publications
 
 ### Journal
-- KL Xu, LL Liu*, J Zhi*, W. Chen, TE Tay, Hygrothermal effects on ballistic behavior of toughened CFRP laminates, *International Journal of Mechanical Sciences*, 280:109531 (2024)
+- KL Xu, LL Liu*, <span style="color:#3B528B">**J Zhi<sup>&#10045;</sup>**</span>, W. Chen, TE Tay, Hygrothermal effects on ballistic behavior of toughened CFRP laminates, *International Journal of Mechanical Sciences*, 280:109531 (2024)
 - JL Liu, J Zhi*, HL Wong, ES Sugeng, TE Tay, VBC Tan*, Effect of ply blocking on the high-speed impact performance of thin-ply CFRP laminates, *Composites Science and Technology*, 228:109640 (2022)
 - J Zhi, TE Tay, Interrogating failure mechanisms of notched composites through a discrete crack modeling approach, *Composites Science and Technology*, 196:108203, (2020)
 - J Zhi, TE Tay, Explicit modelling of matrix cracking and delamination in laminated composites with discontinuous solid-shell elements, *Computer Methods in Applied Mechanics and Engineering*, 351:60-84 (2019)
