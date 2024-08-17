@@ -32,8 +32,8 @@ Dr. Jie Zhi is currently a research professor at the [School of Aerospace Engine
 - **J Zhi**, K Raju, TE Tay, VBC Tan, Transient multi-scale analysis with micro-inertia effects using Direct FE2 method, *Computational Mechanics*, 67:1645-1660 (2021)
 
 ### Conference
-- Multiscale and Multiphysics modeling of process-induced distortion of composite laminates with Direct FE2, 12th Asian-Australasian Conference on Composite Materials, Hangzhou, China, 25 – 28 Apr. (2023)
-- Exploring Direct FE2 in modeling heterogeneous problems beyond scale separation, 15th World Congress on Computational Mechanics & 8th Asian Pacific Congress on Computational Mechanics, Yokohama, Japan, 31 Jul.-8 Aug. (2022)
-- Explicit damage modeling of composites under compressive loading, 22nd International Conference on Composite Materials, Melbourne, Australia, 11-16 Aug. (2019)
-- A geometrically nonlinear floating node method for damage modeling of composites, 18th European Conference on Composite Materials, Athens, Greece, 24-28 Jun. (2018)
-- Spectral stochastic homogenization of composites with randomness in constituent material properties, 21st International Conference on Composite Materials, Xi’an, China, 20-25 Aug. (2017)
+- Multiscale and Multiphysics modeling of process-induced distortion of composite laminates with Direct FE2, *12th Asian-Australasian Conference on Composite Materials*, Hangzhou, China, 25 – 28 Apr. (2023)
+- Exploring Direct FE2 in modeling heterogeneous problems beyond scale separation, *15th World Congress on Computational Mechanics & 8th Asian Pacific Congress on Computational Mechanics*, Yokohama, Japan, 31 Jul.-8 Aug. (2022)
+- Explicit damage modeling of composites under compressive loading, *22nd International Conference on Composite Materials*, Melbourne, Australia, 11-16 Aug. (2019)
+- A geometrically nonlinear floating node method for damage modeling of composites, *18th European Conference on Composite Materials*, Athens, Greece, 24-28 Jun. (2018)
+- Spectral stochastic homogenization of composites with randomness in constituent material properties, *21st International Conference on Composite Materials*, Xi’an, China, 20-25 Aug. (2017)
