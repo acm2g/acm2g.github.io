@@ -14,7 +14,7 @@ The goal of the research group is to understand, predict and optimize the perfor
 - **Design of high-performance composite structures**: \
    *Hybrid composites, Bio-inspired design, Impact, Damage tolerance, etc.*
 - **Optimization of manufacturing process**: \
-  *Precise manufacturing, Process-induced Distortions, Additive Manufacturing, etc.*
+  *Precise manufacturing, Process-induced Distortions, Defects, Additive Manufacturing, etc.*
 - **Development of numerical models and tools**: \
   *Damage and fracture, Multiscale modeling, Data-driven method, etc.* 
 
