@@ -12,6 +12,7 @@ redirect_from:
 
 {% include base_path %}
 
+** Opportunities
 Tongji University and our group are committed to fostering a diverse and inclusive environment, welcoming applicants from all races, ethnicities, religions, national origins, gender identities, and eligible age or disability statuses. We are dedicated to maintaining a supportive and collaborative atmosphere. Motivated and talented individuals who share our passion for research are more than welcome. We are eager to learn about your scientific background and discuss how your career aspirations—whether in academia, industry, or other fields—can align with the opportunities we offer. Interested applicants please send an email to Dr. Jie Zhi with an up-to-date CV/Resume. 
 
 - **Postdoc Fellowship**
@@ -23,3 +24,7 @@ Tongji University and our group are committed to fostering a diverse and inclusi
 - **Undergraduate Student**
   - 
 
+** About TONGJI
+Tongji University, one of China’s earliest national key universities, is a prestigious institution of higher education that is directly under the Ministry of Education (MOE) and is supported by the Shanghai Municipality. Already in its second centenary, the University has grown into a comprehensive and research-intensive university with distinctive features and an international reputation. The University was among the 36 Class A universities in the list of Double First Class University Plan released by the central government of China in 2017. According to 2019 Global Universities Rankings by US News & World Report, Tongji University ranks 11th in the Country Rank of China and 35th in Best Global Universities in Asia. 
+
+Tongji University, a blend of oriental and occidental civilizations, is a product of international cooperation and exchanges. With global cooperation, Tongji is developing itself into a world-class university with Chinese characteristics. Adhering to the concept of “Focusing on key disciplines, reinforcing home advantages while exploring global opportunities in our opening up and collaboration”, Tongji University has continuously optimized its strategy of international exchanges and expanded the network of global communication.
