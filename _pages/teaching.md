@@ -18,4 +18,4 @@ redirect_from:
 - 2017S - ME2114 | Mechanics of Materials - TA
 - 2016F - ME2113 | Mechanics of Materials - TA
 
-S~Spring Semester; F~Fall Semester
+S\~Spring Semester; F\~Fall Semester
