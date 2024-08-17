@@ -20,11 +20,13 @@ The goal of the research group is to understand, predict and optimize the perfor
 
 
 ## Group Members
+
 ### Graduate student
+* Yujing Peng (2024-): TBD
 * Quang Zeng (2024-): TBD
 * Changrong Dong (2024-): Process modeling
 * Xiang Li (2023-): Mechanical characterization
-* Yujing Peng (2024-): TBD
+
 ### Undergraduate student
 * Bo Li (2023-)
 * Qisheng Wang (2023-)
