@@ -20,3 +20,13 @@ The goal of the research group is to understand, predict and optimize the perfor
 
 
 ## Group Members
+* Quang Zeng (2024-)
+* Changrong Dong (2024-)
+* Xiang Li (2023-)
+* Yujing Peng (2024-)
+* Bo Li (2023-)
+* Qisheng Wang (2023-)
+* Yilin Ni (2023-)
+* Yuanbo Miao (2023-)
+* Yujuan Hou (2023-)
+* Haobing Yang (2023-2024)
