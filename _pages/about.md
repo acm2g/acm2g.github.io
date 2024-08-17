@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-
+<style> .aligncenter {text-align: center;} </style>
+<style> body {text-align: justify} </style> <!-- Justify text. -->
 
 
 
