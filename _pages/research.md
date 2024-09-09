@@ -29,7 +29,7 @@ The goal of the research group is to understand, predict and optimize the perfor
 <sup>#</sup>\~co-supervised
 
 ### Undergraduate student
-*Zhichun Li (2024-)
+* Zhichun Li (2024-)
 * Yujing Peng (2024-): TBD
 * Yujuan Hou (2023-)
 * Bo Li (2023-)
